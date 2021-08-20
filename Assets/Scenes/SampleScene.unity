@@ -245,6 +245,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6891c74ce1ac8a0498c2dfb207217d21, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Cube: {fileID: 851199745}
 --- !u!65 &851199747
 BoxCollider:
   m_ObjectHideFlags: 0
