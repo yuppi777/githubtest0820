@@ -11,6 +11,7 @@ public class testscript : MonoBehaviour
     {
         Debug.Log("abcd");
         Instantiate(Cube, new Vector3(-1.0f, 0.0f, 0.0f), Quaternion.identity);
+        Debug.Log("ゆっぴー変態");
 
     }
 
